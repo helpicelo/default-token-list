@@ -1,1 +1,1 @@
-# default-token-list
+# Koroswap Token List
